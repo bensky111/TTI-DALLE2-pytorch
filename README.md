@@ -1309,3 +1309,6 @@ For detailed information on training the diffusion prior, please refer to the [d
 ```
 
 *Creating noise from data is easy; creating data from noise is generative modeling.* - <a href="https://arxiv.org/abs/2011.13456">Yang Song's paper</a>
+
+## Made By
+Alpha
