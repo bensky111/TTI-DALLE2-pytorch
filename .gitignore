@@ -138,3 +138,5 @@ dmypy.json
 .pyre/
 .tracker_data
 *.pth
+
+1.py
